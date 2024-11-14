@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+     background-color: #9538E2;
+     color: white;
+     padding:12px 20px;
+     border-radius: 10px;
+    
+    
+}
+
+
+.pm{
+    padding:12px 20px; 
+    border-radius: 20px;
+   
+}
+
+.bgPurple{
+    background-color:#a855f7;
+    color: white;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+ 
+    
+    
+}
+
+.white{
+   background-color: white;
+   color: black;
+   
+}

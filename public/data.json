@@ -1,0 +1,174 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/KXyVGG4/1-i-Phone-14-Pro-Space-Black-1138.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "The latest Apple iPhone with A16 Bionic chip and advanced camera system.",
+    "specification": [
+      "A16 Bionic",
+      "6.1-inch display",
+      "5G support",
+      "128GB storage"
+    ],
+    "rating": 5.0,
+    "availability": "In stock"
+  },
+  {
+    "product_id": 2,
+    "product_title": "Samsung Galaxy S23",
+    "product_image": "https://i.ibb.co.com/5F89LzP/2-Galaxy-S23-Ultra-Phantom-Black-2756.jpg",
+    "category": "Smartphones",
+    "price": 799,
+    "description": "Samsung's flagship smartphone with stunning display and powerful performance.",
+    "specification": [
+      "Snapdragon 8 Gen 2",
+      "6.2-inch display",
+      "5G support",
+      "128GB storage"
+    ],
+    "rating": 4.5,
+    "availability": "In stock"
+  },
+  {
+    "product_id": 3,
+    "product_title": "Google Pixel 8",
+    "product_image": "https://i.ibb.co.com/BVG6KYj/Pixel-8-Pro.jpg",
+    "category": "Smartphones",
+    "price": 699,
+    "description": "Google's latest Pixel phone with cutting-edge AI capabilities and exceptional camera.",
+    "specification": [
+      "Google Tensor G3",
+      "6.3-inch display",
+      "5G support",
+      "128GB storage"
+    ],
+    "rating": 3.5,
+    "availability": "In stock"
+  },
+  {
+    "product_id": 4,
+    "product_title": "OnePlus 11",
+    "product_image": "https://i.ibb.co.com/bbKQLM8/One-Plus-11-3-4957.jpg",
+    "category": "Smartphones",
+    "price": 749,
+    "description": "High-performance phone with a smooth display and fast charging capabilities.",
+    "specification": [
+      "Snapdragon 8 Gen 2",
+      "6.7-inch display",
+      "5G support",
+      "256GB storage"
+    ],
+    "rating": 3.8,
+    "availability": "Out of stock"
+  },
+  {
+    "product_id": 5,
+    "product_title": "Sony Xperia 5 V",
+    "product_image": "https://i.ibb.co.com/KW6Pymk/41mwushix-WL-AC-SR1000-1000.jpg",
+    "category": "Smartphones",
+    "price": 859,
+    "description": "Sony's flagship phone with excellent multimedia features and unique design.",
+    "specification": [
+      "Snapdragon 8 Gen 2",
+      "6.1-inch display",
+      "5G support",
+      "128GB storage"
+    ],
+    "rating": 4.4,
+    "availability": "In stock"
+  },
+  {
+    "product_id": 6,
+    "product_title": "MacBook Pro 14",
+    "product_image": "https://i.ibb.co.com/ygqvPqb/Macbook-Pro-M1-Chip-3-1.webp",
+    "category": "Laptops",
+    "price": 1999,
+    "description": "Apple's high-performance laptop with M2 Pro chip and long battery life.",
+    "specification": ["M2 Pro", "14-inch display", "16GB RAM", "512GB SSD"],
+    "rating": 4.5,
+    "availability": "In stock"
+  },
+  {
+    "product_id": 7,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/vYJKyTb/dell.jpg",
+    "category": "Laptops",
+    "price": 1299,
+    "description": "Compact and powerful laptop with a stunning display and excellent build quality.",
+    "specification": [
+      "Intel i7-1360P",
+      "13.4-inch display",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "rating": 5.0,
+    "availability": "In stock"
+  },
+  {
+    "product_id": 8,
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.ibb.co.com/wr4mYLr/watch-samsung.jpg",
+    "category": "Accessories",
+    "price": 299,
+    "description": "Advanced smartwatch with health tracking and customizable watch faces.",
+    "specification": [
+      "Exynos W930",
+      "1.4-inch display",
+      "Water-resistant",
+      "16GB storage"
+    ],
+    "rating": 3.5,
+    "availability": "In stock"
+  },
+  {
+    "product_id": 9,
+    "product_title": "Apple AirPods Pro 2",
+    "product_image": "https://i.ibb.co.com/2j79YRD/airpod20q80.jpg",
+    "category": "Accessories",
+    "price": 249,
+    "description": "Noise-canceling wireless earbuds with superior sound quality and long battery life.",
+    "specification": [
+      "Active Noise Cancellation",
+      "H2 chip",
+      "Bluetooth 5.3",
+      "MagSafe charging case"
+    ],
+    "rating": 4.5,
+    "availability": "In stock"
+  },
+  {
+    "product_id": 10,
+    "product_title": "Logitech MX Master 3S",
+    "product_image": "https://i.ibb.co.com/mhCY5M6/AC115050-mouse.webp",
+    "category": "Accessories",
+    "price": 99,
+    "description": "Precision wireless mouse with ergonomic design and programmable buttons.",
+    "specification": [
+      "4000 DPI sensor",
+      "Bluetooth & USB-C",
+      "Ergonomic shape",
+      "7 buttons"
+    ],
+    "rating": 3.5,
+    "availability": "Out of stock"
+  },
+  {
+    "product_id": 11,
+    "product_title": "Xiaomi Mi 13 Ultra",
+    "product_image": "https://i.ibb.co.com/gr5RGdh/Xiaomi-13-Ultra-Olive-Green.jpg",
+    "category": "Smartphones",
+    "price": 899,
+    "description": "Flagship phone with a powerful camera system and long-lasting battery life.",
+    "specification": [
+      "Snapdragon 8 Gen 2",
+      "6.73-inch display",
+      "5G support",
+      "256GB storage"
+    ],
+    "rating": 2.5,
+    "availability": "In stock"
+  }
+  
+]
